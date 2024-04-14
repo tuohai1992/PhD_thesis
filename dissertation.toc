@@ -1,0 +1,103 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Abstract}{vi}{section*.1}% 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.4}% 
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.5}% 
+\contentsline {chapter}{\numberline {2}High-performance computing in healthcare: An automatic literature analysis perspective}{3}{chapter.6}% 
+\contentsline {section}{\numberline {2.1}Introduction}{4}{section.7}% 
+\contentsline {section}{\numberline {2.2}Materials and methods}{6}{section.10}% 
+\contentsline {subsection}{\numberline {2.2.1}Paper retrieval and extraction}{6}{subsection.12}% 
+\contentsline {subsubsection}{Data source}{6}{subsection.12}% 
+\contentsline {subsubsection}{Type of articles included in the study}{6}{subsection.12}% 
+\contentsline {subsubsection}{Paper retrieval pipeline}{7}{subsection.12}% 
+\contentsline {subsection}{\numberline {2.2.2}Data preprocessing}{8}{subsection.15}% 
+\contentsline {subsection}{\numberline {2.2.3}Topic Modeling }{8}{subsection.16}% 
+\contentsline {subsubsection}{Algorithm choice}{8}{subsection.16}% 
+\contentsline {subsubsection}{Identify outlier topics not focusing on HPC adoption in healthcare and remodeling}{9}{subsection.16}% 
+\contentsline {subsubsection}{Identify optimal topic number using dendrogram}{10}{subsection.16}% 
+\contentsline {subsubsection}{Topic merging}{11}{subsection.16}% 
+\contentsline {subsection}{\numberline {2.2.4}Visualization }{11}{subsection.19}% 
+\contentsline {subsubsection}{Visualizing the trends of HPC adoption in healthcare based on application domain}{11}{subsection.19}% 
+\contentsline {subsubsection}{Visualizing the correlation and convergence of topics}{12}{subsection.19}% 
+\contentsline {section}{\numberline {2.3}Results}{13}{section.20}% 
+\contentsline {subsection}{\numberline {2.3.1}Embedding model comparison results}{13}{subsection.21}% 
+\contentsline {subsection}{\numberline {2.3.2}Visualizing the process of topic merging using dendrograms for optimal topic number selection}{14}{subsection.23}% 
+\contentsline {subsection}{\numberline {2.3.3}Trends of HPC adoption in healthcare Applications}{14}{subsection.25}% 
+\contentsline {subsection}{\numberline {2.3.4}Visualizations of topics correlation and convergence}{17}{subsection.30}% 
+\contentsline {section}{\numberline {2.4}Identifying future opportunities through analysis of past and present HPC adoption in healthcare}{18}{section.32}% 
+\contentsline {section}{\numberline {2.5}Discussion}{20}{section.33}% 
+\contentsline {chapter}{\numberline {3}Improving the Speed and Quality of Cancer Segmentation Using Lower Resolution Pathology Images}{23}{chapter.34}% 
+\contentsline {section}{\numberline {3.1}Introduction}{24}{section.35}% 
+\contentsline {section}{\numberline {3.2}Dataset and evaluation metrics}{26}{section.36}% 
+\contentsline {subsection}{\numberline {3.2.1}Camelyon16 dataset}{26}{subsection.37}% 
+\contentsline {subsection}{\numberline {3.2.2}Evaluation metrics}{27}{subsection.38}% 
+\contentsline {section}{\numberline {3.3}Method}{27}{section.40}% 
+\contentsline {subsection}{\numberline {3.3.1}Data preprocessing}{28}{subsection.42}% 
+\contentsline {subsubsection}{Patch sampling}{28}{subsection.42}% 
+\contentsline {subsubsection}{Patch augmentation}{29}{subsection.42}% 
+\contentsline {subsection}{\numberline {3.3.2}Semantic segmentation model}{29}{subsection.44}% 
+\contentsline {subsection}{\numberline {3.3.3}Pipeline of WSI prediction}{31}{subsection.47}% 
+\contentsline {subsection}{\numberline {3.3.4}Hardware configuration}{32}{subsection.49}% 
+\contentsline {section}{\numberline {3.4}Results}{33}{section.51}% 
+\contentsline {subsection}{\numberline {3.4.1}Performance of the model trained on different zoom levels and patch sizes}{33}{subsection.56}% 
+\contentsline {subsection}{\numberline {3.4.2}Comparison with state-of-the-art}{34}{subsection.59}% 
+\contentsline {subsection}{\numberline {3.4.3}Training and prediction time comparison}{36}{subsection.61}% 
+\contentsline {subsection}{\numberline {3.4.4}Segmentation result presentation}{36}{subsection.63}% 
+\contentsline {section}{\numberline {3.5}Conclusion}{39}{section.66}% 
+\contentsline {chapter}{\numberline {4}An early health technology assessment in the Netherlands}{41}{chapter.67}% 
+\contentsline {section}{\numberline {4.1}Highlights}{42}{section.68}% 
+\contentsline {section}{\numberline {4.2}Introduction}{42}{section.72}% 
+\contentsline {section}{\numberline {4.3}Methods}{44}{section.73}% 
+\contentsline {subsection}{\numberline {4.3.1}Study Perspective}{44}{subsection.74}% 
+\contentsline {subsection}{\numberline {4.3.2}Screening Scenarios and Strategies}{44}{subsection.75}% 
+\contentsline {subsection}{\numberline {4.3.3}Screening Interval}{45}{subsection.77}% 
+\contentsline {subsection}{\numberline {4.3.4}Screening Test Characteristics}{46}{subsection.78}% 
+\contentsline {subsection}{\numberline {4.3.5}Study Population}{51}{subsection.80}% 
+\contentsline {subsection}{\numberline {4.3.6}Structure of the Individual-level Model}{51}{subsection.81}% 
+\contentsline {subsection}{\numberline {4.3.7}Validation of the Individual-level Model}{51}{subsection.83}% 
+\contentsline {subsection}{\numberline {4.3.8}Two-dimensional Simulation}{51}{subsection.84}% 
+\contentsline {subsection}{\numberline {4.3.9}Cost-Utility Analysis}{53}{subsection.85}% 
+\contentsline {subsection}{\numberline {4.3.10}One-Way Sensitivity Analysis}{53}{subsection.86}% 
+\contentsline {subsection}{\numberline {4.3.11}Model Input Parameter Data}{54}{subsection.87}% 
+\contentsline {subsubsection}{Medication and Efficacy}{54}{subsection.87}% 
+\contentsline {subsubsection}{Treatment Duration and Adherence}{54}{subsection.87}% 
+\contentsline {subsubsection}{Osteoporosis Prevalence and Incidence}{55}{subsection.87}% 
+\contentsline {subsubsection}{Fracture Rates}{56}{subsection.87}% 
+\contentsline {subsubsection}{Mortality Rate}{56}{subsection.87}% 
+\contentsline {subsubsection}{Costs}{57}{subsection.87}% 
+\contentsline {subsubsection}{Health-State Utility Values}{60}{table.89}% 
+\contentsline {section}{\numberline {4.4}Results}{60}{section.90}% 
+\contentsline {subsection}{\numberline {4.4.1}Internal and External Validation Results}{60}{subsection.91}% 
+\contentsline {subsection}{\numberline {4.4.2}Base Case Analysis}{61}{subsection.92}% 
+\contentsline {subsection}{\numberline {4.4.3}One-Way Sensitivity Analysis}{61}{subsection.93}% 
+\contentsline {subsection}{\numberline {4.4.4}Alternative Scenario Analyses}{62}{subsection.94}% 
+\contentsline {subsection}{\numberline {4.4.5}Probabilistic Sensitivity Analyses}{65}{subsection.96}% 
+\contentsline {section}{\numberline {4.5}Discussion}{66}{section.98}% 
+\contentsline {chapter}{\numberline {5}HPC in Healthcare: Business Model Transformations}{71}{chapter.99}% 
+\contentsline {section}{\numberline {5.1}Introduction}{72}{section.100}% 
+\contentsline {section}{\numberline {5.2}Theoretical Background}{73}{section.103}% 
+\contentsline {subsection}{\numberline {5.2.1}Business model analysis and business model canvas}{73}{subsection.104}% 
+\contentsline {subsection}{\numberline {5.2.2}Topic modeling techniques }{75}{subsection.105}% 
+\contentsline {section}{\numberline {5.3}Materials and methods}{75}{section.106}% 
+\contentsline {subsection}{\numberline {5.3.1}Business report retrieval and extraction}{75}{subsection.108}% 
+\contentsline {subsubsection}{Data source}{75}{subsection.108}% 
+\contentsline {subsubsection}{HPC related business report retrieval pipeline}{77}{subsection.108}% 
+\contentsline {subsection}{\numberline {5.3.2}Business model canvas extraction}{77}{subsection.112}% 
+\contentsline {subsection}{\numberline {5.3.3}Identify healthcare related business model canvas}{78}{subsection.116}% 
+\contentsline {subsection}{\numberline {5.3.4}Topic Modeling }{79}{subsection.118}% 
+\contentsline {subsubsection}{Algorithm choice}{79}{subsection.118}% 
+\contentsline {subsubsection}{Identify optimal topic number using dendrogram and Topic merging}{80}{subsection.118}% 
+\contentsline {subsection}{\numberline {5.3.5}Visualization }{81}{subsection.121}% 
+\contentsline {section}{\numberline {5.4}Results}{82}{section.123}% 
+\contentsline {subsection}{\numberline {5.4.1}Overall trend of HPC adoption in healthcare business}{83}{subsection.124}% 
+\contentsline {subsection}{\numberline {5.4.2}Value proposition transition}{83}{subsection.126}% 
+\contentsline {subsubsection}{Value proposition transition pre- and post-HPC adoption}{83}{subsection.126}% 
+\contentsline {subsubsection}{Identify emerging value proposition trends in HPC adoption in healthcare over time}{85}{figure.caption.127}% 
+\contentsline {subsection}{\numberline {5.4.3}Customer segmentation transition}{86}{subsection.130}% 
+\contentsline {subsection}{\numberline {5.4.4}Revenue stream transition}{87}{subsection.132}% 
+\contentsline {subsection}{\numberline {5.4.5}Cost structure transition}{89}{subsection.134}% 
+\contentsline {subsection}{\numberline {5.4.6}Key activities transition}{91}{subsection.136}% 
+\contentsline {subsection}{\numberline {5.4.7}Key resources transition}{91}{subsection.138}% 
+\contentsline {section}{\numberline {5.5}Learning from the impact of HPC on business models in healthcare and identifying future opportunities}{92}{section.140}% 
+\contentsline {section}{\numberline {5.6}Discussion}{94}{section.141}% 
+\contentsline {chapter}{Bibliography}{118}{chapter*.142}% 
+\contentsline {chapter}{Acknowledgements}{119}{chapter*.142}% 

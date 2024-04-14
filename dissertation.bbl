@@ -1,0 +1,1297 @@
+\begin{thebibliography}{100}
+
+\bibitem{elsebakhi2015large}
+E.~Elsebakhi, F.~Lee, E.~Schendel, A.~Haque, N.~Kathireason, T.~Pathare,
+  N.~Syed, and R.~Al-Ali, ``Large-scale machine learning based on functional
+  networks for biomedical big data with high performance computing platforms,''
+  {\em Journal of Computational Science}, vol.~11, pp.~69--81, 2015.
+
+\bibitem{raj2015big}
+P.~Raj, A.~Raman, D.~Nagaraj, S.~Duggirala, P.~Raj, A.~Raman, D.~Nagaraj, and
+  S.~Duggirala, ``Big data analytics for healthcare,'' {\em High-Performance
+  Big-Data Analytics: Computing Systems and Approaches}, pp.~391--424, 2015.
+
+\bibitem{jia2014gpu}
+X.~Jia, P.~Ziegenhein, and S.~B. Jiang, ``Gpu-based high-performance computing
+  for radiation therapy,'' {\em Physics in Medicine \& Biology}, vol.~59,
+  no.~4, p.~R151, 2014.
+
+\bibitem{bastrakov2013high}
+S.~Bastrakov, I.~Meyerov, V.~Gergel, A.~Gonoskov, A.~Gorshkov, E.~Efimenko,
+  M.~Ivanchenko, M.~Kirillin, A.~Malova, G.~Osipov, {\em et~al.}, ``High
+  performance computing in biomedical applications,'' {\em Procedia Computer
+  Science}, vol.~18, pp.~10--19, 2013.
+
+\bibitem{schmidt2017next}
+B.~Schmidt and A.~Hildebrandt, ``Next-generation sequencing: big data meets
+  high performance computing,'' {\em Drug discovery today}, vol.~22, no.~4,
+  pp.~712--717, 2017.
+
+\bibitem{stocker2010high}
+T.~St{\"o}cker, K.~Vahedipour, D.~Pflugfelder, and N.~J. Shah,
+  ``High-performance computing mri simulations,'' {\em Magnetic resonance in
+  medicine}, vol.~64, no.~1, pp.~186--193, 2010.
+
+\bibitem{alanazi2015meeting}
+H.~O. Alanazi, A.~Zaidan, B.~Zaidan, M.~M. Kiah, and S.~Al-Bakri, ``Meeting the
+  security requirements of electronic medical records in the era of high-speed
+  computing,'' {\em Journal of medical systems}, vol.~39, pp.~1--13, 2015.
+
+\bibitem{vitabile2019medical}
+S.~Vitabile, M.~Marks, D.~Stojanovic, S.~Pllana, J.~M. Molina, M.~Krzyszton,
+  A.~Sikora, A.~Jarynowski, F.~Hosseinpour, A.~Jakobik, {\em et~al.}, ``Medical
+  data processing and analysis for remote health and activities monitoring,''
+  pp.~186--220, 2019.
+
+\bibitem{molidor2003new}
+R.~Molidor, A.~Sturn, M.~Maurer, and Z.~Trajanoski, ``New trends in
+  bioinformatics: from genome sequence to personalized medicine,'' {\em
+  Experimental gerontology}, vol.~38, no.~10, pp.~1031--1036, 2003.
+
+\bibitem{lightbody2019review}
+G.~Lightbody, V.~Haberland, F.~Browne, L.~Taggart, H.~Zheng, E.~Parkes, and
+  J.~K. Blayney, ``Review of applications of high-throughput sequencing in
+  personalized medicine: barriers and facilitators of future progress in
+  research and clinical application,'' {\em Briefings in bioinformatics},
+  vol.~20, no.~5, pp.~1795--1811, 2019.
+
+\bibitem{CHEN20181241}
+H.~Chen, O.~Engkvist, Y.~Wang, M.~Olivecrona, and T.~Blaschke, ``The rise of
+  deep learning in drug discovery,'' {\em Drug Discovery Today}, vol.~23,
+  no.~6, pp.~1241--1250, 2018.
+\newblock
+  \href{https://doi.org/10.1016/j.drudis.2018.01.039}{https://doi.org/10.1016/j.drudis.2018.01.039}.
+
+\bibitem{jumper2021highly}
+J.~Jumper, R.~Evans, A.~Pritzel, T.~Green, M.~Figurnov, O.~Ronneberger,
+  K.~Tunyasuvunakool, R.~Bates, A.~{\v{Z}}{\'\i}dek, A.~Potapenko, {\em
+  et~al.}, ``Highly accurate protein structure prediction with alphafold,''
+  {\em Nature}, vol.~596, no.~7873, pp.~583--589, 2021.
+
+\bibitem{zhang2014toward}
+X.~Zhang, S.~E. Wong, and F.~C. Lightstone, ``Toward fully automated high
+  performance computing drug discovery: a massively parallel virtual screening
+  pipeline for docking and molecular mechanics/generalized born surface area
+  rescoring to improve enrichment,'' 2014.
+
+\bibitem{ge2013molecular}
+H.~Ge, Y.~Wang, C.~Li, N.~Chen, Y.~Xie, M.~Xu, Y.~He, X.~Gu, R.~Wu, Q.~Gu, {\em
+  et~al.}, ``Molecular dynamics-based virtual screening: accelerating the drug
+  discovery process by high-performance computing,'' {\em Journal of chemical
+  information and modeling}, vol.~53, no.~10, pp.~2757--2764, 2013.
+
+\bibitem{sanbonmatsu2007high}
+K.~Sanbonmatsu and C.-S. Tung, ``High performance computing in biology:
+  multimillion atom simulations of nanoscale systems,'' {\em Journal of
+  structural biology}, vol.~157, no.~3, pp.~470--480, 2007.
+
+\bibitem{kharche2008simulation}
+S.~Kharche, G.~Seemann, L.~Margetts, J.~Leng, A.~V. Holden, and H.~Zhang,
+  ``Simulation of clinical electrophysiology in 3d human atria: a
+  high-performance computing and high-performance visualization application,''
+  {\em Concurrency and Computation: Practice and Experience}, vol.~20, no.~11,
+  pp.~1317--1328, 2008.
+
+\bibitem{perrin2010model}
+D.~Perrin, H.~J. Ruskin, and M.~Crane, ``Model refinement through
+  high-performance computing: an agent-based hiv example,'' in {\em Immunome
+  research}, vol.~6, pp.~1--9, BioMed Central, 2010.
+
+\bibitem{phong2017brain}
+T.~D. Phong, H.~N. Duong, H.~T. Nguyen, N.~T. Trong, V.~H. Nguyen, T.~Van~Hoa,
+  and V.~Snasel, ``Brain hemorrhage diagnosis by using deep learning,'' in {\em
+  Proceedings of the 2017 International Conference on Machine Learning and Soft
+  Computing}, pp.~34--39, 2017.
+
+\bibitem{cirillo2019big}
+D.~Cirillo and A.~Valencia, ``Big data analytics for personalized medicine,''
+  {\em Current opinion in biotechnology}, vol.~58, pp.~161--167, 2019.
+
+\bibitem{LITJENS201760}
+G.~Litjens, T.~Kooi, B.~E. Bejnordi, A.~A.~A. Setio, F.~Ciompi, M.~Ghafoorian,
+  J.~A. {van der Laak}, B.~{van Ginneken}, and C.~I. S¨¢nchez, ``A survey on
+  deep learning in medical image analysis,'' {\em Medical Image Analysis},
+  vol.~42, pp.~60--88, 2017.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S1361841517301135}{https://www.sciencedirect.com/science/article/pii/S1361841517301135}.
+
+\bibitem{cai2020review}
+L.~Cai, J.~Gao, and D.~Zhao, ``A review of the application of deep learning in
+  medical image classification and segmentation,'' {\em Annals of translational
+  medicine}, vol.~8, no.~11, 2020.
+
+\bibitem{tahmassebi2018deep}
+A.~Tahmassebi, A.~H. Gandomi, I.~McCann, M.~H. Schulte, A.~E. Goudriaan, and
+  A.~Meyer-Baese, ``Deep learning in medical imaging: fmri big data analysis
+  via convolutional neural networks,'' in {\em Proceedings of the Practice and
+  Experience on Advanced Research Computing}, pp.~1--4, 2018.
+
+\bibitem{lee2019deepdrivemd}
+H.~Lee, M.~Turilli, S.~Jha, D.~Bhowmik, H.~Ma, and A.~Ramanathan,
+  ``Deepdrivemd: Deep-learning driven adaptive molecular simulations for
+  protein folding,'' in {\em 2019 IEEE/ACM Third Workshop on Deep Learning on
+  Supercomputers (DLS)}, pp.~12--19, IEEE, 2019.
+
+\bibitem{bai2022application}
+Q.~Bai, S.~Liu, Y.~Tian, T.~Xu, A.~J. Banegas-Luna, H.~P{\'e}rez-S{\'a}nchez,
+  J.~Huang, H.~Liu, and X.~Yao, ``Application advances of deep learning methods
+  for de novo drug design and molecular dynamics simulation,'' {\em Wiley
+  Interdisciplinary Reviews: Computational Molecular Science}, vol.~12, no.~3,
+  p.~e1581, 2022.
+
+\bibitem{blei2012probabilistic}
+D.~M. Blei, ``Probabilistic topic models,'' {\em Communications of the ACM},
+  vol.~55, no.~4, pp.~77--84, 2012.
+
+\bibitem{jacobi2018quantitative}
+C.~Jacobi, W.~Van~Atteveldt, and K.~Welbers, ``Quantitative analysis of large
+  amounts of journalistic texts using topic modelling,'' pp.~89--106, 2018.
+
+\bibitem{blei2003latent}
+D.~M. Blei, A.~Y. Ng, and M.~I. Jordan, ``Latent dirichlet allocation,'' {\em
+  Journal of machine Learning research}, vol.~3, no.~Jan, pp.~993--1022, 2003.
+
+\bibitem{lee1999learning}
+D.~D. Lee and H.~S. Seung, ``Learning the parts of objects by non-negative
+  matrix factorization,'' {\em Nature}, vol.~401, no.~6755, pp.~788--791, 1999.
+
+\bibitem{deerwester1990indexing}
+S.~Deerwester, S.~T. Dumais, G.~W. Furnas, T.~K. Landauer, and R.~Harshman,
+  ``Indexing by latent semantic analysis,'' {\em Journal of the American
+  society for information science}, vol.~41, no.~6, pp.~391--407, 1990.
+
+\bibitem{alghamdi2015survey}
+R.~Alghamdi and K.~Alfalqi, ``A survey of topic modeling in text mining,'' {\em
+  Int. J. Adv. Comput. Sci. Appl.(IJACSA)}, vol.~6, no.~1, 2015.
+
+\bibitem{yi2009comparative}
+X.~Yi and J.~Allan, ``A comparative study of utilizing topic models for
+  information retrieval,'' in {\em Advances in Information Retrieval: 31th
+  European Conference on IR Research, ECIR 2009, Toulouse, France, April 6-9,
+  2009. Proceedings 31}, pp.~29--41, Springer, 2009.
+
+\bibitem{meeks2012digital}
+E.~Meeks and S.~B. Weingart, ``The digital humanities contribution to topic
+  modeling,'' {\em Journal of Digital Humanities}, vol.~2, no.~1, pp.~1--6,
+  2012.
+
+\bibitem{asmussen2019smart}
+C.~B. Asmussen and C.~M{\o}ller, ``Smart literature review: a practical topic
+  modelling approach to exploratory literature review,'' {\em Journal of Big
+  Data}, vol.~6, no.~1, pp.~1--18, 2019.
+
+\bibitem{amado2018research}
+A.~Amado, P.~Cortez, P.~Rita, and S.~Moro, ``Research trends on big data in
+  marketing: A text mining and topic modeling based literature analysis,'' {\em
+  European Research on Management and Business Economics}, vol.~24, no.~1,
+  pp.~1--7, 2018.
+
+\bibitem{chen2019identify}
+H.~Chen, X.~Wang, S.~Pan, and F.~Xiong, ``Identify topic relations in
+  scientific literature using topic modeling,'' {\em IEEE Transactions on
+  Engineering Management}, vol.~68, no.~5, pp.~1232--1244, 2019.
+
+\bibitem{algaa2020analysis}
+A.~{\"A}lg{\aa}, O.~Eriksson, and M.~Nordberg, ``Analysis of scientific
+  publications during the early phase of the covid-19 pandemic: topic modeling
+  study,'' {\em Journal of medical Internet research}, vol.~22, no.~11,
+  p.~e21559, 2020.
+
+\bibitem{lindstedt2019structural}
+N.~C. Lindstedt, ``Structural topic modeling for social scientists: A brief
+  case study with social movement studies literature, 2005--2017,'' {\em Social
+  Currents}, vol.~6, no.~4, pp.~307--318, 2019.
+
+\bibitem{van2016understanding}
+A.~J. van Altena, P.~D. Moerland, A.~H. Zwinderman, and S.~D. Olabarriaga,
+  ``Understanding big data themes from scientific biomedical literature through
+  topic modeling,'' {\em Journal of Big Data}, vol.~3, no.~1, pp.~1--21, 2016.
+
+\bibitem{maier2018applying}
+D.~Maier, A.~Waldherr, P.~Miltner, G.~Wiedemann, A.~Niekler, A.~Keinert,
+  B.~Pfetsch, G.~Heyer, U.~Reber, T.~H{\"a}ussler, {\em et~al.}, ``Applying lda
+  topic modeling in communication research: Toward a valid and reliable
+  methodology,'' {\em Communication Methods and Measures}, vol.~12, no.~2-3,
+  pp.~93--118, 2018.
+
+\bibitem{angelov2020top2vec}
+D.~Angelov, ``Top2vec: Distributed representations of topics,'' {\em arXiv
+  preprint arXiv:2008.09470}, 2020.
+
+\bibitem{10.1145/3126686.3126776}
+S.~Rudinac, I.~Gornishka, and M.~Worring, ``Multimodal classification of
+  violent online political extremism content with graph convolutional
+  networks,'' in {\em Proceedings of the on Thematic Workshops of ACM
+  Multimedia 2017}, Thematic Workshops '17, (New York, NY, USA), p.~245¨C252,
+  Association for Computing Machinery, 2017.
+\newblock
+  \href{https://doi.org/10.1145/3126686.3126776}{https://doi.org/10.1145/3126686.3126776}.
+
+\bibitem{egger2022topic}
+R.~Egger and J.~Yu, ``A topic modeling comparison between lda, nmf, top2vec,
+  and bertopic to demystify twitter posts,'' {\em Frontiers in sociology},
+  vol.~7, 2022.
+
+\bibitem{karas2022experiments}
+B.~Karas, S.~Qu, Y.~Xu, and Q.~Zhu, ``Experiments with lda and top2vec for
+  embedded topic discovery on social media data¡ªa case study of cystic
+  fibrosis,'' {\em Frontiers in Artificial Intelligence}, vol.~5, 2022.
+
+\bibitem{le2014distributed}
+Q.~Le and T.~Mikolov, ``Distributed representations of sentences and
+  documents,'' in {\em International conference on machine learning},
+  pp.~1188--1196, PMLR, 2014.
+
+\bibitem{cer2018universal}
+D.~Cer, Y.~Yang, S.-y. Kong, N.~Hua, N.~Limtiaco, R.~S. John, N.~Constant,
+  M.~Guajardo-Cespedes, S.~Yuan, C.~Tar, {\em et~al.}, ``Universal sentence
+  encoder for english,'' in {\em Proceedings of the 2018 conference on
+  empirical methods in natural language processing: system demonstrations},
+  pp.~169--174, 2018.
+
+\bibitem{yang2019multilingual}
+Y.~Yang, D.~Cer, A.~Ahmad, M.~Guo, J.~Law, N.~Constant, G.~H. Abrego, S.~Yuan,
+  C.~Tar, Y.-H. Sung, {\em et~al.}, ``Multilingual universal sentence encoder
+  for semantic retrieval,'' {\em arXiv preprint arXiv:1907.04307}, 2019.
+
+\bibitem{reimers2019sentence}
+N.~Reimers and I.~Gurevych, ``Sentence-bert: Sentence embeddings using siamese
+  bert-networks,'' {\em arXiv preprint arXiv:1908.10084}, 2019.
+
+\bibitem{reimers2020making}
+N.~Reimers and I.~Gurevych, ``Making monolingual sentence embeddings
+  multilingual using knowledge distillation,'' {\em arXiv preprint
+  arXiv:2004.09813}, 2020.
+
+\bibitem{roder2015exploring}
+M.~R{\"o}der, A.~Both, and A.~Hinneburg, ``Exploring the space of topic
+  coherence measures,'' in {\em Proceedings of the eighth ACM international
+  conference on Web search and data mining}, pp.~399--408, 2015.
+
+\bibitem{mcinnes1802umap}
+L.~McInnes, J.~Healy, and J.~Melville, ``Umap: Uniform manifold approximation
+  and projection for dimension reduction. arxiv 2018,'' {\em arXiv preprint
+  arXiv:1802.03426}, 1802.
+
+\bibitem{campello2013density}
+R.~J. Campello, D.~Moulavi, and J.~Sander, ``Density-based clustering based on
+  hierarchical density estimates,'' in {\em Pacific-Asia conference on
+  knowledge discovery and data mining}, pp.~160--172, Springer, 2013.
+
+\bibitem{zografos2023gpt}
+G.~Zografos and L.~Moussiades, ``A gpt-based vocabulary tutor,'' in {\em
+  International Conference on Intelligent Tutoring Systems}, pp.~270--280,
+  Springer, 2023.
+
+\bibitem{carpenter2023using}
+K.~A. Carpenter and R.~B. Altman, ``Using gpt-3 to build a lexicon of drugs of
+  abuse synonyms for social media pharmacovigilance,'' {\em Biomolecules},
+  vol.~13, no.~2, p.~387, 2023.
+
+\bibitem{bommarito2022gpt}
+M.~Bommarito~II and D.~M. Katz, ``Gpt takes the bar exam,'' {\em arXiv preprint
+  arXiv:2212.14402}, 2022.
+
+\bibitem{nielsen2016hierarchical}
+F.~Nielsen and F.~Nielsen, ``Hierarchical clustering,'' {\em Introduction to
+  HPC with MPI for Data Science}, pp.~195--211, 2016.
+
+\bibitem{orkphol2019word}
+K.~Orkphol and W.~Yang, ``Word sense disambiguation using cosine similarity
+  collaborates with word2vec and wordnet,'' {\em Future Internet}, vol.~11,
+  no.~5, p.~114, 2019.
+
+\bibitem{rozado2019using}
+D.~Rozado, ``Using word embeddings to analyze how universities conceptualize
+  ``diversity" in their online institutional presence,'' {\em Society},
+  vol.~56, pp.~256--266, 2019.
+
+\bibitem{clark1974high}
+K.~W. Clark, F.~M. Nolle, J.~R. Cox, and G.~C. Oliver, ``High performance
+  computer programs for rapid analysis of long ecg records.,'' in {\em San
+  Diego Biomed Symp, Proc}, 1974.
+
+\bibitem{samant2008high}
+S.~S. Samant, J.~Xia, P.~Muyan-{\"O}z{\c{c}}elik, and J.~D. Owens, ``High
+  performance computing for deformable image registration: Towards a new
+  paradigm in adaptive radiotherapy,'' {\em Medical physics}, vol.~35, no.~8,
+  pp.~3546--3553, 2008.
+
+\bibitem{hasan2021normalized}
+M.~Hasan, A.~Rahman, M.~R. Karim, M.~S.~I. Khan, and M.~J. Islam, ``Normalized
+  approach to find optimal number of topics in latent dirichlet allocation
+  (lda),'' in {\em Proceedings of International Conference on Trends in
+  Computational and Cognitive Engineering: Proceedings of TCCE 2020},
+  pp.~341--354, Springer, 2021.
+
+\bibitem{harrando2021apples}
+I.~Harrando, P.~Lisena, and R.~Troncy, ``Apples to apples: A systematic
+  evaluation of topic models,'' in {\em Proceedings of the International
+  Conference on Recent Advances in Natural Language Processing (RANLP 2021)},
+  pp.~483--493, 2021.
+
+\bibitem{dillan2023ldaviewer}
+T.~Dillan and D.~H. Fudholi, ``Ldaviewer: An automatic language-agnostic system
+  for discovering state-of-the-art topics in research using topic modeling,
+  bidirectional encoder representations from transformers, and entity
+  linking,'' {\em IEEE Access}, 2023.
+
+\bibitem{Siegel2019}
+R.~L. Siegel, K.~D. Miller, and A.~Jemal, ``Cancer statistics, 2019,'' {\em CA:
+  a cancer journal for clinicians}, vol.~69, no.~1, pp.~7--34, 2019.
+
+\bibitem{Pantanowitz2010}
+L.~Pantanowitz, ``{Digital images and the future of digital pathology},'' {\em
+  Journal of Pathology Informatics}, vol.~1, no.~1, p.~15, 2010.
+
+\bibitem{khan2020machine}
+A.~I. Khan and S.~Al-Habsi, ``Machine learning in computer vision,'' {\em
+  Procedia Computer Science}, vol.~167, pp.~1444--1451, 2020.
+
+\bibitem{voulodimos2018deep}
+A.~Voulodimos, N.~Doulamis, A.~Doulamis, E.~Protopapadakis, {\em et~al.},
+  ``Deep learning for computer vision: A brief review,'' {\em Computational
+  intelligence and neuroscience}, vol.~2018, 2018.
+
+\bibitem{liu2020reliability}
+S.~Liu, C.~Guo, F.~Al-Turjman, K.~Muhammad, and V.~H.~C. de~Albuquerque,
+  ``Reliability of response region: a novel mechanism in visual tracking by
+  edge computing for iiot environments,'' {\em Mechanical systems and signal
+  processing}, vol.~138, p.~106537, 2020.
+
+\bibitem{liu2021medical}
+X.~Liu, J.~He, L.~Song, S.~Liu, and G.~Srivastava, ``Medical image
+  classification based on an adaptive size deep learning model,'' {\em ACM
+  Transactions on Multimedia Computing, Communications, and Applications
+  (TOMM)}, vol.~17, no.~3s, pp.~1--18, 2021.
+
+\bibitem{liu2021review}
+X.~Liu, L.~Song, S.~Liu, and Y.~Zhang, ``A review of deep-learning-based
+  medical image segmentation methods,'' {\em Sustainability}, vol.~13, no.~3,
+  p.~1224, 2021.
+
+\bibitem{Hou2016}
+L.~Hou, D.~Samaras, T.~M. Kurc, Y.~Gao, J.~E. Davis, and J.~H. Saltz,
+  ``Patch-based convolutional neural network for whole slide tissue image
+  classification,'' in {\em Proceedings of the ieee conference on computer
+  vision and pattern recognition}, pp.~2424--2433, 2016.
+
+\bibitem{Li2018}
+Y.~Li and W.~Ping, ``Cancer metastasis detection with neural conditional random
+  field,'' in {\em Medical Imaging with Deep Learning}, 2018.
+
+\bibitem{wang2021tumor}
+J.~Wang, Z.~Xu, Z.-F. Pang, Z.~Huo, and J.~Luo, ``Tumor detection for whole
+  slide image of liver based on patch-based convolutional neural network,''
+  {\em Multimedia Tools and Applications}, vol.~80, no.~11, pp.~17429--17440,
+  2021.
+
+\bibitem{Deepa2022}
+B.~G. Deepa and S.~Senthil, ``Predicting invasive ductal carcinoma tissues in
+  whole slide images of breast cancer by using convolutional neural network
+  model and multiple classifiers,'' {\em Multimedia Tools and Applications},
+  vol.~81, pp.~8575--8596, 3 2022.
+
+\bibitem{gupta2022deep}
+I.~Gupta, S.~R. Nayak, S.~Gupta, S.~Singh, K.~Verma, A.~Gupta, and D.~Prakash,
+  ``A deep learning based approach to detect idc in histopathology images,''
+  {\em Multimedia Tools and Applications}, pp.~1--22, 2022.
+
+\bibitem{singh2022breast}
+S.~Singh and R.~Kumar, ``Breast cancer detection from histopathology images
+  with deep inception and residual blocks,'' {\em Multimedia Tools and
+  Applications}, vol.~81, no.~4, pp.~5849--5865, 2022.
+
+\bibitem{murtaza2020breast}
+G.~Murtaza, L.~Shuib, G.~Mujtaba, and G.~Raza, ``Breast cancer
+  multi-classification through deep neural network and hierarchical
+  classification approach,'' {\em Multimedia Tools and Applications}, vol.~79,
+  no.~21, pp.~15481--15511, 2020.
+
+\bibitem{chanchal2022deep}
+A.~K. Chanchal, S.~Lal, and J.~Kini, ``Deep structured residual encoder-decoder
+  network with a novel loss function for nuclei segmentation of kidney and
+  breast histopathology images,'' {\em Multimedia Tools and Applications},
+  vol.~81, no.~7, pp.~9201--9224, 2022.
+
+\bibitem{codreanu2018}
+V.~Codreanu, D.~Podareanu, and V.~Saletore, ``Large minibatch training on
+  supercomputers with improved accuracy and reduced time to train,'' in {\em
+  2018 IEEE/ACM Machine Learning in HPC Environments (MLHPC)}, pp.~67--76,
+  IEEE, 2018.
+
+\bibitem{Wang2022}
+T.~Wang, S.~Lei, Y.~Jiang, C.~Chang, H.~Snoussi, G.~Shan, and Y.~Fu,
+  ``Accelerating temporal action proposal generation via high performance
+  computing,'' {\em Frontiers of Computer Science}, vol.~16, no.~4, pp.~1--10,
+  2022.
+
+\bibitem{Geng2018}
+T.~Geng, T.~Wang, A.~Sanaullah, C.~Yang, R.~Patel, and M.~Herbordt, ``{A
+  framework for acceleration of CNN training on deeply-pipelined FPGA clusters
+  with work and weight load balancing},'' in {\em 2018 28th International
+  Conference on Field Programmable Logic and Applications (FPL)}, pp.~394--398,
+  IEEE, 2018.
+
+\bibitem{Komura2018}
+D.~Komura and S.~Ishikawa, ``Machine learning methods for histopathological
+  image analysis,'' {\em Computational and Structural Biotechnology Journal},
+  vol.~16, pp.~34--42, 1 2018.
+
+\bibitem{Wang2016}
+D.~Wang, A.~Khosla, R.~Gargeya, H.~Irshad, and A.~H. Beck, ``Deep learning for
+  identifying metastatic breast cancer,'' {\em arXiv preprint
+  arXiv:1606.05718}, 2016.
+
+\bibitem{Bejnordi2017}
+B.~E. Bejnordi, M.~Veta, P.~J. {Van Diest}, {\em et~al.}, ``{Diagnostic
+  assessment of deep learning algorithms for detection of lymph node metastases
+  in women with breast cancer},'' {\em JAMA - Journal of the American Medical
+  Association}, vol.~318, no.~22, pp.~2199--2210, 2017.
+
+\bibitem{Liu2017}
+Y.~Liu, K.~Gadepalli, M.~Norouzi, G.~E. Dahl, T.~Kohlberger, A.~Boyko,
+  S.~Venugopalan, A.~Timofeev, P.~Q. Nelson, G.~S. Corrado, J.~D. Hipp,
+  L.~Peng, and M.~C. Stumpe, ``{Detecting Cancer Metastases on Gigapixel
+  Pathology Images},'' {\em arXiv preprint arXiv:1703.02442}, 2017.
+
+\bibitem{zhang2023whole}
+X.~Zhang, C.~Liu, T.~Li, and Y.~Zhou, ``The whole slide breast histopathology
+  image detection based on a fused model and heatmaps,'' {\em Biomedical Signal
+  Processing and Control}, vol.~82, p.~104532, 2023.
+
+\bibitem{shen2022identify}
+Y.~Shen, D.~Shen, and J.~Ke, ``Identify representative samples by conditional
+  random field of cancer histology images,'' {\em IEEE Transactions on Medical
+  Imaging}, vol.~41, no.~12, pp.~3835--3848, 2022.
+
+\bibitem{yu2023bayesian}
+J.-G. Yu, Z.~Wu, Y.~Ming, S.~Deng, Q.~Wu, Z.~Xiong, T.~Yu, G.-S. Xia, Q.~Jiang,
+  and Y.~Li, ``Bayesian collaborative learning for whole-slide image
+  classification,'' {\em IEEE Transactions on Medical Imaging}, 2023.
+
+\bibitem{tourniaire2023ms}
+P.~Tourniaire, M.~Ilie, P.~Hofman, N.~Ayache, and H.~Delingette, ``Ms-clam:
+  Mixed supervision for the classification and localization of tumors in whole
+  slide images,'' {\em Medical Image Analysis}, vol.~85, p.~102763, 2023.
+
+\bibitem{khaliliboroujeni2022end}
+S.~Khaliliboroujeni, X.~He, W.~Jia, and S.~Amirgholipour, ``End-to-end
+  metastasis detection of breast cancer from histopathology whole slide
+  images,'' {\em Computerized Medical Imaging and Graphics}, vol.~102,
+  p.~102136, 2022.
+
+\bibitem{jin2020integrative}
+Y.~W. Jin, S.~Jia, A.~B. Ashraf, and P.~Hu, ``Integrative data augmentation
+  with u-net segmentation masks improves detection of lymph node metastases in
+  breast cancer patients,'' {\em Cancers}, vol.~12, no.~10, p.~2934, 2020.
+
+\bibitem{liu2020effidiag}
+S.~Liu, J.~Ren, Z.~Chen, K.~Hu, F.~Xiao, X.~Li, and X.~Gao, ``Effidiag: an
+  efficient framework for breast cancer diagnosis in multi-gigapixel whole
+  slide images,'' in {\em 2020 IEEE International Conference on Bioinformatics
+  and Biomedicine (BIBM)}, pp.~663--669, IEEE, 2020.
+
+\bibitem{Guo2019}
+Z.~Guo, H.~Liu, H.~Ni, X.~Wang, M.~Su, W.~Guo, K.~Wang, T.~Jiang, and Y.~Qian,
+  ``{A Fast and Refined Cancer Regions Segmentation Framework in Whole-slide
+  Breast Pathological Images},'' {\em Scientific Reports}, vol.~9, no.~1, 2019.
+
+\bibitem{Szegedy2015}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich, ``{Going deeper with convolutions},'' in
+  {\em Proceedings of the IEEE Computer Society Conference on Computer Vision
+  and Pattern Recognition}, vol.~07-12-June-2015, pp.~1--9, 2015.
+
+\bibitem{Bradley1997}
+A.~P. Bradley, ``{The use of the area under the ROC curve in the evaluation of
+  machine learning algorithms},'' {\em Pattern Recognition}, vol.~30, no.~7,
+  pp.~1145--1159, 1997.
+
+\bibitem{Efron1979}
+B.~Efron, ``Bootstrap methods: another look at the jackknife,'' in {\em
+  Breakthroughs in statistics}, vol.~501, pp.~569--593, 1979.
+
+\bibitem{GOODE201327}
+A.~Goode, B.~Gilbert, J.~Harkes, D.~Jukic, and M.~Satyanarayanan, ``Openslide:
+  A vendor-neutral software foundation for digital pathology,'' {\em Journal of
+  Pathology Informatics}, vol.~4, no.~1, p.~27, 2013.
+
+\bibitem{khened2021generalized}
+M.~Khened, A.~Kori, H.~Rajkumar, G.~Krishnamurthi, and B.~Srinivasan, ``A
+  generalized deep learning framework for whole-slide image segmentation and
+  analysis,'' {\em Scientific reports}, vol.~11, no.~1, pp.~1--14, 2021.
+
+\bibitem{4310076}
+N.~Otsu, ``A threshold selection method from gray-level histograms,'' {\em IEEE
+  Transactions on Systems, Man, and Cybernetics}, vol.~9, no.~1, pp.~62--66,
+  1979.
+
+\bibitem{Lee2018}
+B.~Lee and K.~Paeng, ``A robust and effective approach towards accurate
+  metastasis detection and pn-stage classification in breast cancer,'' in {\em
+  International Conference on Medical Image Computing and Computer-Assisted
+  Intervention}, vol.~11071 LNCS, pp.~841--850, Springer, 2018.
+
+\bibitem{Dimitriou2019}
+N.~Dimitriou, O.~Arandjelovi{\'{c}}, and P.~D. Caie, ``{Deep Learning for Whole
+  Slide Image Analysis: An Overview},'' {\em Frontiers in Medicine}, vol.~6,
+  2019.
+
+\bibitem{Magee2009}
+D.~Magee, D.~Treanor, D.~Crellin, M.~Shires, K.~Smith, K.~Mohee, and P.~Quirke,
+  ``Colour normalisation in digital histopathology images,'' in {\em Proc
+  Optical Tissue Image analysis in Microscopy, Histopathology and Endoscopy
+  (MICCAI Workshop)}, vol.~100, pp.~100--111, Citeseer, 2009.
+
+\bibitem{Zanjani2018}
+F.~G. Zanjani, S.~Zinger, P.~de~With, B.~E. Bejnordi, and J.~A. van~der Laak,
+  ``{Histopathology stain-color normalization using deep generative models},''
+  pp.~1--11, 2018.
+
+\bibitem{xu2020colorectal}
+L.~Xu, B.~Walker, P.-I. Liang, Y.~Tong, C.~Xu, Y.~C. Su, and A.~Karsan,
+  ``Colorectal cancer detection based on deep learning,'' {\em Journal of
+  Pathology Informatics}, vol.~11, no.~1, p.~28, 2020.
+
+\bibitem{wu2022machine}
+Y.~Wu, C.~F. Koyuncu, P.~Toro, G.~Corredor, Q.~Feng, C.~Buzzy, M.~Old,
+  T.~Teknos, S.~T. Connelly, R.~C. Jordan, {\em et~al.}, ``A machine learning
+  model for separating epithelial and stromal regions in oral cavity squamous
+  cell carcinomas using h\&e-stained histology images: A multi-center,
+  retrospective study,'' {\em Oral Oncology}, vol.~131, p.~105942, 2022.
+
+\bibitem{Chen2018}
+L.-C. Chen, Y.~Zhu, G.~Papandreou, F.~Schroff, and H.~Adam, ``Encoder-decoder
+  with atrous separable convolution for semantic image segmentation,'' in {\em
+  Proceedings of the European conference on computer vision (ECCV)},
+  pp.~801--818, 2018.
+
+\bibitem{Everingham2015}
+M.~Everingham, S.~M. {Ali Eslami}, L.~{Van Gool}, C.~K. {I Williams}, J.~Winn,
+  A.~Zisserman, M.~Everingham, S.~M. {A Eslami}, J.~Winn, L.~K. {Van Gool
+  Leuven}, B.~L. {Van Gool ETH}, S.~C. {K I Williams}, and A.~Zisserman, ``{The
+  PASCAL Visual Object Classes Challenge: A Retrospective},'' {\em Int J Comput
+  Vis}, vol.~111, p.~International journal of computer vision, 2015.
+
+\bibitem{Cordts2016}
+M.~Cordts, M.~Omran, S.~Ramos, T.~Rehfeld, M.~Enzweiler, R.~Benenson,
+  U.~Franke, S.~Roth, and B.~Schiele, ``The cityscapes dataset for semantic
+  urban scene understanding,'' in {\em 2016 IEEE Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, pp.~3213--3223, 2016.
+
+\bibitem{Chen2017}
+L.-C. Chen, G.~Papandreou, F.~Schroff, and H.~Adam, ``{Rethinking Atrous
+  Convolution for Semantic Image Segmentation},'' {\em arXiv preprint
+  arXiv:1706.05587}, 2017.
+
+\bibitem{8099678}
+F.~Chollet, ``Xception: Deep learning with depthwise separable convolutions,''
+  in {\em 2017 IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, (Los Alamitos, CA, USA), pp.~1800--1807, IEEE Computer Society, jul
+  2017.
+
+\bibitem{camelyon16}
+``Results - grand challenge.''
+\newblock Accessed on 10-04-2023.
+
+\bibitem{cheng2020self}
+H.-T. Cheng, C.-F. Yeh, P.-C. Kuo, A.~Wei, K.-C. Liu, M.-C. Ko, K.-H. Chao,
+  Y.-C. Peng, and T.-L. Liu, ``Self-similarity student for partial label
+  histopathology image segmentation,'' in {\em Computer Vision--ECCV 2020: 16th
+  European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XXV
+  16}, pp.~117--132, Springer, 2020.
+
+\bibitem{gildenblat2019self}
+J.~Gildenblat and E.~Klaiman, ``Self-supervised similarity learning for digital
+  pathology,'' {\em arXiv preprint arXiv:1905.08139}, 2019.
+
+\bibitem{naouar2023robust}
+M.~Naouar, G.~Kalweit, I.~Mastroleo, P.~Poxleitner, M.~Metzger, J.~Boedecker,
+  and M.~Kalweit, ``Robust tumor detection from coarse annotations via
+  multi-magnification ensembles,'' {\em arXiv preprint arXiv:2303.16533}, 2023.
+
+\bibitem{cai2017framework}
+K.~Cai, R.~Yang, H.~Chen, L.~Li, J.~Zhou, S.~Ou, and F.~Liu, ``A framework
+  combining window width-level adjustment and gaussian filter-based
+  multi-resolution for automatic whole heart segmentation,'' {\em
+  Neurocomputing}, vol.~220, pp.~138--150, 2017.
+
+\bibitem{nasor2021segmentation}
+M.~Nasor and W.~Obaid, ``Segmentation of osteosarcoma in mri images by k-means
+  clustering, chan-vese segmentation, and iterative gaussian filtering,'' {\em
+  IET Image Processing}, vol.~15, no.~6, pp.~1310--1318, 2021.
+
+\bibitem{4-1}
+D.~Eekman, S.~Van~Helden, A.~Huisman, H.~Verhaar, I.~Bultink, P.~Geusens,
+  P.~Lips, and W.~Lems, ``Optimizing fracture prevention: the fracture liaison
+  service, an observational study,'' {\em Osteoporosis international}, vol.~25,
+  pp.~701--709, 2014.
+
+\bibitem{4-2}
+S.~A. Wainwright, L.~M. Marshall, K.~E. Ensrud, J.~A. Cauley, D.~M. Black,
+  T.~A. Hillier, M.~C. Hochberg, M.~T. Vogt, E.~S. Orwoll, and
+  S.~of~Osteoporotic Fractures Research~Group, ``Hip fracture in women without
+  osteoporosis,'' {\em The Journal of Clinical Endocrinology \& Metabolism},
+  vol.~90, no.~5, pp.~2787--2793, 2005.
+
+\bibitem{4-3}
+M.~Qasim, G.~Farinella, J.~Zhang, X.~Li, L.~Yang, R.~Eastell, and M.~Viceconti,
+  ``Patient-specific finite element estimated femur strength as a predictor of
+  the risk of hip fracture: the effect of methodological determinants,'' {\em
+  Osteoporosis International}, vol.~27, pp.~2815--2822, 2016.
+
+\bibitem{4-4}
+M.~Viceconti, M.~Qasim, P.~Bhattacharya, and X.~Li, ``Are ct-based finite
+  element model predictions of femoral bone strengthening clinically useful?,''
+  {\em Current osteoporosis reports}, vol.~16, pp.~216--223, 2018.
+
+\bibitem{4-5}
+K.~Imai, ``Computed tomography-based finite element analysis to assess fracture
+  risk and osteoporosis treatment,'' {\em World journal of experimental
+  medicine}, vol.~5, no.~3, p.~182, 2015.
+
+\bibitem{4-6}
+P.~Bhattacharya, Z.~Altai, M.~Qasim, and M.~Viceconti, ``A multiscale model to
+  predict current absolute risk of femoral fracture in a postmenopausal
+  population,'' {\em Biomechanics and Modeling in Mechanobiology}, vol.~18,
+  no.~2, pp.~301--318, 2019.
+
+\bibitem{4-7}
+Z.~Altai, M.~Qasim, X.~Li, and M.~Viceconti, ``The effect of boundary and
+  loading conditions on patient classification using finite element predicted
+  risk of fracture,'' {\em Clinical Biomechanics}, vol.~68, pp.~137--143, 2019.
+
+\bibitem{4-8}
+I.~Benemerito, W.~Griffiths, J.~Allsopp, W.~Furnass, P.~Bhattacharya, X.~Li,
+  A.~Marzo, S.~Wood, M.~Viceconti, and A.~Narracott, ``Delivering
+  computationally-intensive digital patient applications to the clinic: An
+  exemplar solution to predict femoral bone strength from ct data,'' {\em
+  Computer Methods and Programs in Biomedicine}, vol.~208, p.~106200, 2021.
+
+\bibitem{4-9}
+N.~Hong, D.~C. Lee, S.~Khosla, T.~M. Keaveny, and Y.~Rhee, ``Comparison of
+  vertebral and femoral strength between white and asian adults using finite
+  element analysis of computed tomography scans,'' {\em Journal of Bone and
+  Mineral Research}, vol.~35, no.~12, pp.~2345--2354, 2020.
+
+\bibitem{4-10}
+``Compulsory standard health insurance | health insurance | government.nl,''
+  accessed 12 May 2022.
+\newblock
+  \href{https://www.government.nl/topics/health-insurance/standard-health-insurance/compulsory-standard-health-insurance}{https://www.government.nl/topics/health-insurance/standard-health-insurance/compulsory-standard-health-insurance}.
+
+\bibitem{4-11}
+``wetten.nl - regeling - zorgverzekeringswet - bwbr0018450,'' accessed 12 May
+  2022.
+\newblock
+  \href{https://wetten.overheid.nl/BWBR0018450/2022-01-01}{https://wetten.overheid.nl/BWBR0018450/2022-01-01}.
+
+\bibitem{4-12}
+J.~P. Grutters, T.~Govers, J.~Nijboer, M.~Tummers, G.~J. Van Der~Wilt, and
+  M.~M. Rovers, ``Problems and promises of health technologies: the role of
+  early health economic modeling,'' {\em International journal of health policy
+  and management}, vol.~8, no.~10, pp.~575--582, 2019.
+
+\bibitem{4-13}
+C.~H. Wilkins, ``Osteoporosis screening and risk management,'' {\em Clinical
+  interventions in aging}, vol.~2, no.~3, pp.~389--394, 2007.
+
+\bibitem{4-14}
+``Guideline for economic evaluations in healthcare | guideline | national
+  health care institute,'' accessed 4 May 2022.
+\newblock
+  \href{https://english.zorginstituutnederland.nl/publications/reports/2016/06/16/guideline-for-economic-evaluations-in-healthcare}{https://english.zorginstituutnederland.nl/publications/reports/2016/06/16/guideline-for-economic-evaluations-in-healthcare}.
+
+\bibitem{4-15}
+R.~A.~C. of~General~Practitioners, {\em Clinical guideline for the prevention
+  and treatment of osteoporosis in postmenopausal women and older men: February
+  2010}.
+\newblock Royal Australian College of General Practitioners, 2010, accessed 3
+  May 2021.
+
+\bibitem{4-16}
+T.~A. Hillier, K.~L. Stone, D.~C. Bauer, J.~H. Rizzo, K.~L. Pedula, J.~A.
+  Cauley, K.~E. Ensrud, M.~C. Hochberg, and S.~R. Cummings, ``Evaluating the
+  value of repeat bone mineral density measurement and prediction of fractures
+  in older women: the study of osteoporotic fractures,'' {\em Archives of
+  internal medicine}, vol.~167, no.~2, pp.~155--160, 2007.
+
+\bibitem{4-17}
+K.~Craig and J.~J. Stevermer, ``Dexa screening: are we doing too much?,''
+  no.~61, p.~555, 2012.
+
+\bibitem{4-18}
+A.~R. McLellan, S.~J. Gallacher, M.~Fraser, and C.~McQuillian, ``The fracture
+  liaison service: success of a program for the evaluation and management of
+  patients with osteoporotic fracture,'' {\em Osteoporosis international},
+  vol.~14, pp.~1028--1034, 2003.
+
+\bibitem{4-19}
+E.~C. White~VanGompel, P.~Franks, J.~A. Robbins, and J.~J. Fenton, ``Incidence
+  and predictors of repeat bone mineral densitometry: a longitudinal cohort
+  study,'' {\em Journal of general internal medicine}, vol.~32, pp.~1090--1096,
+  2017.
+
+\bibitem{4-20}
+E.~Schileo, E.~Dall'Ara, F.~Taddei, A.~Malandrino, T.~Schotkamp, M.~Baleani,
+  and M.~Viceconti, ``An accurate estimation of bone density improves the
+  accuracy of subject-specific finite element models,'' {\em Journal of
+  biomechanics}, vol.~41, no.~11, pp.~2483--2491, 2008.
+
+\bibitem{4-21}
+E.~Schileo, F.~Taddei, L.~Cristofolini, and M.~Viceconti, ``Subject-specific
+  finite element models implementing a maximum principal strain criterion are
+  able to estimate failure risk and fracture location on human femurs tested in
+  vitro,'' {\em Journal of biomechanics}, vol.~41, no.~2, pp.~356--367, 2008.
+
+\bibitem{4-22}
+B.~Efron, ``Bootstrap methods: another look at the jackknife,'' in {\em
+  Breakthroughs in statistics: Methodology and distribution}, pp.~569--593,
+  Springer, 1992.
+
+\bibitem{4-23}
+M.~Antonelli, D.~Einstadter, and M.~Magrey, ``Screening and treatment of
+  osteoporosis after hip fracture: comparison of sex and race,'' {\em Journal
+  of Clinical Densitometry}, vol.~17, no.~4, pp.~479--483, 2014.
+
+\bibitem{4-38}
+A.~Giusti, G.~Bianchi, A.~Barone, and D.~M. Black, ``A novel effervescent
+  formulation of oral weekly alendronate (70 mg) improves persistence compared
+  to alendronate tablets in post-menopausal women with osteoporosis,'' {\em
+  Aging Clinical and Experimental Research}, pp.~1--9, 2021.
+
+\bibitem{4-39}
+M.~Hiligsmann, H.-J. Gathon, O.~Bruy{\`e}re, O.~Ethgen, V.~Rabenda, and J.-Y.
+  Reginster, ``Cost--effectiveness of osteoporosis screening followed by
+  treatment: the impact of medication adherence,'' {\em Value in Health},
+  vol.~13, no.~4, pp.~394--401, 2010.
+
+\bibitem{4-41}
+{\'E}.~Tremblay, S.~Perreault, and M.~Dorais, ``Persistence with denosumab and
+  zoledronic acid among older women: a population-based cohort study,'' {\em
+  Archives of osteoporosis}, vol.~11, pp.~1--11, 2016.
+
+\bibitem{4-32}
+D.~M. Black, D.~E. Thompson, D.~C. Bauer, K.~Ensrud, T.~Musliner, M.~C.
+  Hochberg, M.~C. Nevitt, S.~Suryawanshi, S.~R. Cummings, and F.~R. Group,
+  ``Fracture risk reduction with alendronate in women with osteoporosis: the
+  fracture intervention trial,'' {\em The Journal of Clinical Endocrinology \&
+  Metabolism}, vol.~85, no.~11, pp.~4118--4124, 2000.
+
+\bibitem{4-31}
+M.~H. Murad, M.~T. Drake, R.~J. Mullan, K.~F. Mauck, L.~M. Stuart, M.~A. Lane,
+  N.~O. Abu~Elnour, P.~J. Erwin, A.~Hazem, M.~A. Puhan, {\em et~al.},
+  ``Comparative effectiveness of drug treatments to prevent fragility
+  fractures: a systematic review and network meta-analysis,'' {\em The Journal
+  of Clinical Endocrinology \& Metabolism}, vol.~97, no.~6, pp.~1871--1880,
+  2012.
+
+\bibitem{4-33}
+K.~Gauthier, A.~Bai, C.~Perras, J.~Cunningham, T.~Ahuja, T.~Richter, and
+  C.~Kovacs, ``Denosumab, raloxifene, and zoledronic acid for the treatment of
+  postmenopausal osteoporosis: Clinical effectiveness and harms,'' 2013.
+\newblock
+  \href{https://www.ncbi.nlm.nih.gov/books/NBK169524/}{https://www.ncbi.nlm.nih.gov/books/NBK169524/}.
+
+\bibitem{4-43}
+O.~Str{\"o}m, F.~Borgstr{\"o}m, J.~A. Kanis, J.~Compston, C.~Cooper, E.~V.
+  McCloskey, and B.~J{\"o}nsson, ``Osteoporosis: burden, health care provision
+  and opportunities in the eu: a report prepared in collaboration with the
+  international osteoporosis foundation (iof) and the european federation of
+  pharmaceutical industry associations (efpia),'' 2011.
+
+\bibitem{4-44}
+K.~Huntjens, T.~Van~Geel, M.~Blonk, J.~Hegeman, M.~Van~der Elst, P.~Willems,
+  P.~Geusens, B.~Winkens, P.~Brink, and S.~Van~Helden, ``Implementation of
+  osteoporosis guidelines: a survey of five large fracture liaison services in
+  the netherlands,'' {\em Osteoporosis international}, vol.~22, pp.~2129--2135,
+  2011.
+
+\bibitem{4-47}
+A.~Svedbom, E.~Hernlund, M.~Iverg{\aa}rd, J.~Compston, C.~Cooper, J.~Stenmark,
+  E.~V. McCloskey, B.~J{\"o}nsson, J.~A. Kanis, and E.~review panel of~the IOF,
+  ``Osteoporosis in the european union: a compendium of country-specific
+  reports,'' {\em Archives of osteoporosis}, vol.~8, pp.~1--218, 2013.
+
+\bibitem{4-50}
+D.~Bliuc, D.~Alarkawi, T.~V. Nguyen, J.~A. Eisman, and J.~R. Center, ``Risk of
+  subsequent fractures and mortality in elderly women and men with fragility
+  fractures with and without osteoporotic bone density: the dubbo osteoporosis
+  epidemiology study,'' {\em Journal of bone and mineral research}, vol.~30,
+  no.~4, pp.~637--646, 2015.
+
+\bibitem{4-51}
+J.~R. Center, D.~Bliuc, T.~V. Nguyen, and J.~A. Eisman, ``Risk of subsequent
+  fracture after low-trauma fracture in men and women,'' {\em Jama}, vol.~297,
+  no.~4, pp.~387--394, 2007.
+
+\bibitem{4-49}
+J.~Kanis, O.~Johnell, C.~De~Laet, H.~Johansson, A.~Od{\'e}n, P.~Delmas,
+  J.~Eisman, S.~Fujiwara, P.~Garnero, H.~Kroger, {\em et~al.}, ``A
+  meta-analysis of previous fracture and subsequent fracture risk,'' {\em
+  Bone}, vol.~35, no.~2, pp.~375--382, 2004.
+
+\bibitem{4-48}
+L.~Melton~III, M.~Thamer, N.~Ray, J.~Chan, C.~Chesnut~III, T.~Einhorn,
+  C.~Johnston, L.~Raisz, S.~Silverman, and E.~Siris, ``Fractures attributable
+  to osteoporosis: report from the national osteoporosis foundation,'' {\em
+  Journal of Bone and Mineral Research}, vol.~12, no.~1, pp.~16--23, 1997.
+
+\bibitem{4-68}
+E.~Osnes, C.~Lofthus, H.~Meyer, J.~Falch, L.~Nordsletten, I.~Cappelen, and
+  I.~S. Kristiansen, ``Consequences of hip fracture on activities of daily life
+  and residential needs,'' {\em Osteoporosis international}, vol.~15,
+  pp.~567--574, 2004.
+
+\bibitem{4-69}
+``Dhfa - dica,'' accessed 12 September 2022.
+\newblock
+  \href{https://dica.nl/jaarrapportage-2019/dhfa}{https://dica.nl/jaarrapportage-2019/dhfa}.
+
+\bibitem{4-53}
+``Gho | by category | life tables by country - netherlands,'' accessed 6
+  October 2021.
+\newblock
+  \href{https://apps.who.int/gho/data/view.main.61160?lang=en}{https://apps.who.int/gho/data/view.main.61160?lang=en}.
+
+\bibitem{4-54}
+W.~Browner, D.~Seeley, S.~Cummings, T.~Vogt, S.~of~Osteoporotic Fractures
+  Research~Group, {\em et~al.}, ``Non-trauma mortality in elderly women with
+  low bone mineral density,'' {\em The Lancet}, vol.~338, no.~8763,
+  pp.~355--358, 1991.
+
+\bibitem{4-55}
+P.~Haentjens, J.~Magaziner, C.~S. Col{\'o}n-Emeric, D.~Vanderschueren,
+  K.~Milisen, B.~Velkeniers, and S.~Boonen, ``Meta-analysis: excess mortality
+  after hip fracture among older women and men,'' {\em Annals of internal
+  medicine}, vol.~152, no.~6, pp.~380--390, 2010.
+
+\bibitem{4-59}
+T.~Tran, D.~Bliuc, T.~van Geel, J.~D. Adachi, C.~Berger, J.~van~den Bergh,
+  J.~A. Eisman, P.~Geusens, D.~Goltzman, D.~A. Hanley, {\em et~al.},
+  ``Population-wide impact of non-hip non-vertebral fractures on mortality,''
+  {\em Journal of Bone and Mineral Research}, vol.~32, no.~9, pp.~1802--1810,
+  2017.
+
+\bibitem{4-60}
+J.~A. Kanis, A.~Oden, O.~Johnell, C.~De~Laet, B.~Jonsson, and A.~Oglesby, ``The
+  components of excess mortality after hip fracture,'' {\em Bone}, vol.~32,
+  no.~5, pp.~468--473, 2003.
+
+\bibitem{4-61}
+J.~A. Kanis, A.~Oden, O.~Johnell, C.~De~Laet, and B.~Jonsson, ``Excess
+  mortality after hospitalisation for vertebral fracture,'' {\em Osteoporosis
+  International}, vol.~15, pp.~108--112, 2004.
+
+\bibitem{4-63}
+S.~Polinder, J.~Haagsma, M.~Panneman, A.~Scholten, M.~Brugmans, and
+  E.~Van~Beeck, ``The economic burden of injury: Health care and productivity
+  costs of injuries in the netherlands,'' {\em Accident analysis \&
+  prevention}, vol.~93, pp.~92--100, 2016.
+
+\bibitem{4-64}
+E.~Hernlund, A.~Svedbom, M.~Iverg{\aa}rd, J.~Compston, C.~Cooper, J.~Stenmark,
+  E.~V. McCloskey, B.~J{\"o}nsson, and J.~A. Kanis, ``Osteoporosis in the
+  european union: medical management, epidemiology and economic burden: a
+  report prepared in collaboration with the international osteoporosis
+  foundation (iof) and the european federation of pharmaceutical industry
+  associations (efpia),'' {\em Archives of osteoporosis}, vol.~8, pp.~1--115,
+  2013.
+
+\bibitem{4-65}
+D.~Eekman, M.~Ter~Wee, V.~Coup{\'e}, S.~Erisek-Demirtas, M.~Kramer, and
+  W.~Lems, ``Indirect costs account for half of the total costs of an
+  osteoporotic fracture: a prospective evaluation,'' {\em Osteoporosis
+  International}, vol.~25, pp.~195--204, 2014.
+
+\bibitem{4-67}
+R.~Akehurst, N.~Brereton, R.~Ariely, T.~Lusa, M.~Groot, P.~Foss, and S.~Boonen,
+  ``The cost effectiveness of zoledronic acid 5 mg for the management of
+  postmenopausal osteoporosis in women with prior fractures: evidence from
+  finland, norway and the netherlands,'' {\em Journal of Medical Economics},
+  vol.~14, no.~1, pp.~53--64, 2011.
+\newblock
+  \href{https://doi.org/103111/136969982010545563}{https://doi.org/103111/136969982010545563}.
+
+\bibitem{4-70}
+J.~P. Jansen, S.~Gaugris, G.~Bergman, and S.~S. Sen, ``Cost-effectiveness of a
+  fixed dose combination of alendronate and cholecalciferol in the treatment
+  and prevention of osteoporosis in the united kingdom and the netherlands,''
+  {\em Current medical research and opinion}, vol.~24, no.~3, pp.~671--684,
+  2008.
+
+\bibitem{4-72}
+A.~Szende, B.~Janssen, and J.~Cabases, ``Self-reported population health: an
+  international perspective based on eq-5d,'' pp.~19--30, 2014.
+
+\bibitem{4-74}
+C.~S. Col{\'o}n-Emeric, S.~K. Datta, and D.~B. Matchar, ``An economic analysis
+  of external hip protector use in ambulatory nursing facility residents,''
+  {\em Age and ageing}, vol.~32, no.~1, pp.~47--52, 2003.
+\newblock
+  \href{https://academic.oup.com/ageing/article/32/1/47/26119}{https://academic.oup.com/ageing/article/32/1/47/26119}.
+
+\bibitem{4-73}
+A.~Svedbom, F.~Borgst{\"o}m, E.~Hernlund, O.~Str{\"o}m, V.~Alekna, M.~L.
+  Bianchi, P.~Clark, M.~Curiel, H.~P. Dimai, M.~J{\"u}risson, {\em et~al.},
+  ``Quality of life for up to 18 months after low-energy hip, vertebral, and
+  distal forearm fractures¡ªresults from the icuros,'' {\em Osteoporosis
+  International}, vol.~29, pp.~557--566, 2018.
+
+\bibitem{4-24}
+D.~M. Eddy, W.~Hollingworth, J.~J. Caro, J.~Tsevat, K.~M. McDonald, and J.~B.
+  Wong, ``Model transparency and validation: a report of the ispor-smdm
+  modeling good research practices task force--7,'' {\em Medical Decision
+  Making}, vol.~32, no.~5, pp.~733--743, 2012.
+\newblock
+  \href{http://dx.doi.org/101177/0272989X12454579}{http://dx.doi.org/101177/0272989X12454579}.
+
+\bibitem{4-25}
+D.~Forner, G.~Hoit, C.~W. Noel, A.~Eskander, J.~R. de~Almeida, M.~H. Rigby, and
+  D.~Naimark, ``Decision modeling for economic evaluation in
+  otolaryngology--head and neck surgery: review of techniques,'' {\em
+  Otolaryngology--Head and Neck Surgery}, vol.~164, no.~4, pp.~741--750, 2021.
+\newblock
+  \href{https://doi.org/101177/0194599820957288}{https://doi.org/101177/0194599820957288}.
+
+\bibitem{4-26}
+``Cost-effectiveness in practice | report | national health care institute,''
+  accessed 11 May 2022.
+\newblock
+  \href{https://english.zorginstituutnederland.nl/publications/reports/2015/06/16/cost-effectiveness-in-practice}{https://english.zorginstituutnederland.nl/publications/reports/2015/06/16/cost-effectiveness-in-practice}.
+
+\bibitem{4-27}
+``Methods for the economic evaluation of health care programmes - michael f.
+  drummond, mark j. sculpher, karl claxton, greg l. stoddart, george w.
+  torrance - google boeken,'' accessed 11 May 2022.
+\newblock
+  \href{https://books.google.nl/books?hl=nl\&lr=\&id=yzZSCwAAQBAJ\&oi=fnd\&pg=PP1\&ots=\_bOamG3pLH\&sig=BzDO4DKUXAFoAEwGKaIpjrR5llk\&redir\_esc=y\#v=onepage\&q\&f=false}{https://books.google.nl/books?hl=nl\&lr=\&id=yzZSCwAAQBAJ\&oi=fnd\&pg=
+  PP1\&ots=\_bOamG3pLH\&sig=BzDO4DKUXAFoAEwGKaIpjrR5llk\&redir\_esc
+  =y\#v=onepage\&q\&f=false}.
+
+\bibitem{4-28}
+``Alendroninezuur prijsbreker - sfk website,'' accessed 2 May 2021.
+\newblock
+  \href{https://www.sfk.nl/publicaties/PW/2009/2009-01.html}{https://www.sfk.nl/publicaties/PW/2009/2009-01.html}.
+
+\bibitem{4-29}
+F.~J. L{\"o}tters, J.~P. van~den Bergh, F.~de~Vries, and M.~P. Rutten-van
+  M{\"o}lken, ``Current and future incidence and costs of osteoporosis-related
+  fractures in the netherlands: combining claims data with bmd measurements,''
+  {\em Calcified tissue international}, vol.~98, pp.~235--243, 2016.
+
+\bibitem{4-30}
+S.~Dhillon, ``Zoledronic acid (reclast{\textregistered},
+  aclasta{\textregistered}): a review in osteoporosis,'' {\em Drugs}, vol.~76,
+  pp.~1683--1697, 2016.
+
+\bibitem{4-34}
+``Alendronic acid: medicine to treat and prevent osteoporosis - nhs,'' accessed
+  2 May 2021.
+\newblock
+  \href{https://www.nhs.uk/medicines/alendronic-acid/}{https://www.nhs.uk/medicines/alendronic-acid/}.
+
+\bibitem{4-35}
+D.~M. Black, A.~V. Schwartz, K.~E. Ensrud, J.~A. Cauley, S.~Levis, S.~A.
+  Quandt, S.~Satterfield, R.~B. Wallace, D.~C. Bauer, L.~Palermo, {\em et~al.},
+  ``Effects of continuing or stopping alendronate after 5 years of treatment:
+  the fracture intervention trial long-term extension (flex): a randomized
+  trial,'' {\em Jama}, vol.~296, no.~24, pp.~2927--2938, 2006.
+
+\bibitem{4-36}
+K.~N. Hayes, E.~M. Winter, S.~M. Cadarette, and A.~M. Burden, ``Duration of
+  bisphosphonate drug holidays in osteoporosis patients: a narrative review of
+  the evidence and considerations for decision-making,'' {\em Journal of
+  Clinical Medicine}, vol.~10, no.~5, p.~1140, 2021.
+
+\bibitem{4-37}
+S.~Nayak, M.~S. Roberts, and S.~L. Greenspan, ``Cost-effectiveness of different
+  screening strategies for osteoporosis in postmenopausal women,'' {\em Annals
+  of internal medicine}, vol.~155, no.~11, pp.~751--761, 2011.
+
+\bibitem{4-40}
+D.~M. Black, I.~R. Reid, J.~A. Cauley, F.~Cosman, P.~C. Leung, P.~Lakatos,
+  K.~Lippuner, S.~R. Cummings, T.~F. Hue, A.~Mukhopadhyay, {\em et~al.}, ``The
+  effect of 6 versus 9 years of zoledronic acid treatment in osteoporosis: a
+  randomized second extension to the horizon-pivotal fracture trial (pft),''
+  {\em Journal of Bone and Mineral Research}, vol.~30, no.~5, pp.~934--944,
+  2015.
+
+\bibitem{4-42}
+C.~Smeets-Goevaers, G.~Lesusink, S.~Papapoulos, L.~Maartens, J.~Keyzer,
+  J.~Weerdenburg, L.~Beijers, A.~Zwinderman, J.~Knottnerus, H.~Pols, {\em
+  et~al.}, ``The prevalence of low bone mineral density in dutch perimenopausal
+  women: the eindhoven perimenopausal osteoporosis study,'' {\em Osteoporosis
+  International}, vol.~8, pp.~404--409, 1998.
+
+\bibitem{4-45}
+L.~Si, T.~Winzenberg, Q.~Jiang, and A.~J. Palmer, ``Screening for and treatment
+  of osteoporosis: construction and validation of a state-transition
+  microsimulation cost-effectiveness model,'' {\em Osteoporosis International},
+  vol.~26, pp.~1477--1489, 2015.
+
+\bibitem{4-46}
+R.~L. Fleurence and C.~S. Hollenbeak, ``Rates and probabilities in economic
+  modelling: transformation, translation and appropriate application,'' {\em
+  Pharmacoeconomics}, vol.~25, pp.~3--6, 2007.
+
+\bibitem{4-52}
+S.~Nayak, A.~Singer, and S.~L. Greenspan, ``Cost-effectiveness of secondary
+  fracture prevention intervention for medicare beneficiaries,'' {\em Journal
+  of the American Geriatrics Society}, vol.~69, no.~12, pp.~3435--3444, 2021.
+
+\bibitem{4-56}
+O.~Johnell, J.~Kanis, A.~Oden, I.~Sernbo, I.~Redlund-Johnell, C.~Petterson,
+  C.~De~Laet, and B.~J{\"o}nsson, ``Mortality after osteoporotic fractures,''
+  {\em Osteoporosis international}, vol.~15, pp.~38--42, 2004.
+
+\bibitem{4-57}
+J.~A. Kanis, A.~Oden, O.~Johnell, C.~De~Laet, and B.~Jonsson, ``Excess
+  mortality after hospitalisation for vertebral fracture,'' {\em Osteoporosis
+  International}, vol.~15, pp.~108--112, 2004.
+
+\bibitem{4-58}
+J.~Cauley, D.~Thompson, K.~Ensrud, J.~Scott, and D.~Black, ``Risk of mortality
+  following clinical fractures,'' {\em Osteoporosis international}, vol.~11,
+  pp.~556--561, 2000.
+
+\bibitem{4-62}
+M.~Hiligsmann, S.~A. Williams, L.~A. Fitzpatrick, S.~S. Silverman, R.~Weiss,
+  and J.-Y. Reginster, ``Cost-effectiveness of sequential treatment with
+  abaloparatide vs. teriparatide for united states women at increased risk of
+  fracture,'' in {\em Seminars in arthritis and rheumatism}, vol.~49,
+  pp.~184--196, Elsevier, 2019.
+
+\bibitem{4-66}
+J.~F. van Boven, P.~T. de~Boer, M.~J. Postma, and S.~Vegter, ``Persistence with
+  osteoporosis medication among newly-treated osteoporotic patients,'' {\em
+  Journal of bone and mineral metabolism}, vol.~31, pp.~562--570, 2013.
+
+\bibitem{4-71}
+``Netherlands - inflation rate 2025 | statista,'' accessed 2 May 2021.
+\newblock
+  \href{https://www.statista.com/statistics/276708/inflation-rate-in-the-netherlands/}{https://www.statista.com/statistics/276708/inflation-rate-in-the-netherlands/}.
+
+\bibitem{4-75}
+D.~Mueller and A.~Gandjour, ``Cost effectiveness of ultrasound and bone
+  densitometry for osteoporosis screening in post-menopausal women,'' {\em
+  Applied health economics and health policy}, vol.~6, pp.~113--135, 2008.
+
+\bibitem{4-76}
+K.~Ito, ``Cost-effectiveness of screening for osteoporosis in older men with a
+  history of falls,'' {\em JAMA network open}, vol.~3, no.~12,
+  pp.~e2027584--e2027584, 2020.
+
+\bibitem{4-77}
+P.~Kingkaew, U.~Maleewong, C.~Ngarmukos, and Y.~Teerawattananon, ``Evidence to
+  inform decision makers in thailand: a cost-effectiveness analysis of
+  screening and treatment strategies for postmenopausal osteoporosis,'' {\em
+  Value in Health}, vol.~15, no.~1, pp.~S20--S28, 2012.
+
+\bibitem{4-78}
+M.~Hiligsmann, S.~Maggi, N.~Veronese, L.~Sartori, and J.-Y. Reginster,
+  ``Cost-effectiveness of buffered soluble alendronate 70 mg effervescent
+  tablet for the treatment of postmenopausal women with osteoporosis in
+  italy,'' {\em Osteoporosis International}, vol.~32, pp.~595--606, 2021.
+
+\bibitem{4-79}
+W.~Y. Elaine and J.~S. Finkelstein, ``Bone density screening intervals for
+  osteoporosis: one size does not fit all,'' {\em JAMA}, vol.~307, no.~24,
+  pp.~2591--2592, 2012.
+
+\bibitem{4-80}
+M.~L. Gourlay, J.~P. Fine, J.~S. Preisser, R.~C. May, C.~Li, L.-Y. Lui, D.~F.
+  Ransohoff, J.~A. Cauley, and K.~E. Ensrud, ``Bone-density testing interval
+  and transition to osteoporosis in older women,'' {\em New England Journal of
+  Medicine}, vol.~366, no.~3, pp.~225--233, 2012.
+
+\bibitem{4-81}
+A.~Lalmohamed, P.~M. Welsing, W.~F. Lems, J.~Jacobs, J.~A. Kanis, H.~Johansson,
+  A.~De~Boer, and F.~De~Vries, ``Calibration of frax{\textregistered} 3.1 to
+  the dutch population with data on the epidemiology of hip fractures,'' {\em
+  Osteoporosis international}, vol.~23, pp.~861--869, 2012.
+
+\bibitem{4-82}
+``Hospitals in the netherlands 2005-2020 | statista,'' accessed 11 May 2023.
+\newblock
+  \href{https://www.statista.com/statistics/949593/hospitals-in-the-netherlands/}{https://www.statista.com/statistics/949593/hospitals-in-the-netherlands/}.
+
+\bibitem{4-83}
+J.~A. Kanis, N.~Norton, N.~C. Harvey, T.~Jacobson, H.~Johansson, M.~Lorentzon,
+  E.~V. McCloskey, C.~Willers, and F.~Borgstr{\"o}m, ``Scope 2021: a new
+  scorecard for osteoporosis in europe,'' {\em Archives of osteoporosis},
+  vol.~16, no.~1, p.~82, 2021.
+
+\bibitem{4-84}
+``Computed tomography scanners in the netherlands 2005-2020 | statista,''
+  accessed 11 May 2023.
+\newblock
+  \href{https://www.statista.com/statistics/557449/computed-tomography-scanners-in-the-netherlands/}{https://www.statista.com/statistics/557449/computed-tomography-scanners-in-the-netherlands/}.
+
+\bibitem{4-85}
+D.~Anitha, K.~Subburaj, K.~Mei, F.~K. Kopp, P.~Foehr, P.~B. Noel, J.~S.
+  Kirschke, and T.~Baum, ``Effects of dose reduction on bone strength
+  prediction using finite element analysis,'' {\em Scientific reports}, vol.~6,
+  no.~1, p.~38441, 2016.
+
+\bibitem{belle2015big}
+A.~Belle, R.~Thiagarajan, S.~Soroushmehr, F.~Navidi, D.~A. Beard, K.~Najarian,
+  {\em et~al.}, ``Big data analytics in healthcare,'' {\em BioMed research
+  international}, vol.~2015, 2015.
+
+\bibitem{veerla2023hpc}
+H.~Veerla, V.~Chindukuri, Y.~J. Mohammed, V.~Palakonda, and R.~R. Chintala,
+  ``Hpc driven innovations in network management for greater efficiency and
+  productivity,'' in {\em 2023 5th International Conference on Inventive
+  Research in Computing Applications (ICIRCA)}, pp.~1047--1053, IEEE, 2023.
+
+\bibitem{hussein2013healthcare}
+S.~Hussein and S.~Badr, ``Healthcare cloud integration using distributed cloud
+  storage and hybrid image compression,'' {\em International Journal of
+  Computer Applications}, vol.~80, no.~3, pp.~9--15, 2013.
+
+\bibitem{lo2016mobile}
+A.~T. Lo’ai, R.~Mehmood, E.~Benkhlifa, and H.~Song, ``Mobile cloud computing
+  model and big data analysis for healthcare applications,'' {\em IEEE Access},
+  vol.~4, pp.~6171--6180, 2016.
+
+\bibitem{muhammed2018ubehealth}
+T.~Muhammed, R.~Mehmood, A.~Albeshri, and I.~Katib, ``Ubehealth: A personalized
+  ubiquitous cloud and edge-enabled networked healthcare system for smart
+  cities,'' {\em IEEE Access}, vol.~6, pp.~32258--32285, 2018.
+
+\bibitem{eze2016leveraging}
+B.~Eze, C.~Kuziemsky, R.~Lakhani, and L.~Peyton, ``Leveraging cloud computing
+  for systematic performance management of quality of care,'' {\em Procedia
+  Computer Science}, vol.~98, pp.~316--323, 2016.
+
+\bibitem{dananjayan2020artificial}
+S.~Dananjayan and G.~M. Raj, ``Artificial intelligence during a pandemic: The
+  covid-19 example,'' {\em The International Journal of Health Planning and
+  Management}, vol.~35, no.~5, p.~1260, 2020.
+
+\bibitem{majeed2021applications}
+A.~Majeed and S.~Lee, ``Applications of machine learning and high-performance
+  computing in the era of covid-19,'' {\em Applied System Innovation}, vol.~4,
+  no.~3, p.~40, 2021.
+
+\bibitem{reim2020implementation}
+W.~Reim, J.~{\AA}str{\"o}m, and O.~Eriksson, ``Implementation of artificial
+  intelligence (ai): a roadmap for business model innovation,'' {\em AI},
+  vol.~1, no.~2, p.~11, 2020.
+
+\bibitem{muhtarouglu2013business}
+F.~C.~P. Muhtaro{\u{g}}lu, S.~Demir, M.~Obal{\i}, and C.~Girgin, ``Business
+  model canvas perspective on big data applications,'' in {\em 2013 IEEE
+  International Conference on Big Data}, pp.~32--37, IEEE, 2013.
+
+\bibitem{osterwalder2010business}
+A.~Osterwalder and Y.~Pigneur, {\em Business model generation: a handbook for
+  visionaries, game changers, and challengers}, vol.~1.
+\newblock John Wiley \& Sons, 2010.
+
+\bibitem{massa2017critical}
+L.~Massa, C.~L. Tucci, and A.~Afuah, ``A critical assessment of business model
+  research,'' {\em Academy of Management annals}, vol.~11, no.~1, pp.~73--104,
+  2017.
+
+\bibitem{zott2011business}
+C.~Zott, R.~Amit, and L.~Massa, ``The business model: recent developments and
+  future research,'' {\em Journal of management}, vol.~37, no.~4,
+  pp.~1019--1042, 2011.
+
+\bibitem{teece2010business}
+D.~J. Teece, ``Business models, business strategy and innovation,'' {\em Long
+  range planning}, vol.~43, no.~2-3, pp.~172--194, 2010.
+
+\bibitem{baden2013business}
+C.~Baden-Fuller and S.~Haefliger, ``Business models and technological
+  innovation,'' {\em Long range planning}, vol.~46, no.~6, pp.~419--426, 2013.
+
+\bibitem{al2010developing}
+M.~M. Al-Debei and D.~Avison, ``Developing a unified framework of the business
+  model concept,'' {\em European journal of information systems}, vol.~19,
+  no.~3, pp.~359--376, 2010.
+
+\bibitem{sorrentino2015term}
+M.~Sorrentino, M.~Smarra, {\em et~al.}, ``The term ``business model" in
+  financial reporting: Does it need a proper definition?,'' {\em Open Journal
+  of Accounting}, vol.~4, no.~02, p.~11, 2015.
+
+\bibitem{morris2005entrepreneur}
+M.~Morris, M.~Schindehutte, and J.~Allen, ``The entrepreneur's business model:
+  toward a unified perspective,'' {\em Journal of business research}, vol.~58,
+  no.~6, pp.~726--735, 2005.
+
+\bibitem{kamprath2012systematic}
+M.~Kamprath and B.~Halecker, ``A systematic approach for business model
+  taxonomy-how to operationalize and compare large quantities of business
+  models?,'' in {\em ISPIM Innovation Symposium}, p.~1, The International
+  Society for Professional Innovation Management (ISPIM), 2012.
+
+\bibitem{upward2013towards}
+A.~Upward, ``Towards an ontology and canvas for strongly sustainable business
+  models: A systemic design science exploration,'' 2013.
+
+\bibitem{mustaniroh2020analysis}
+S.~Mustaniroh, N.~Prabaningtias, and A.~Citraresmi, ``Analysis of business
+  development strategies with business model canvas approach,'' in {\em IOP
+  Conference Series: Earth and Environmental Science}, vol.~515, p.~012075, IOP
+  Publishing, 2020.
+
+\bibitem{muller2019business}
+J.~M. M{\"u}ller, ``Business model innovation in small-and medium-sized
+  enterprises: Strategies for industry 4.0 providers and users,'' {\em Journal
+  of Manufacturing Technology Management}, vol.~30, no.~8, pp.~1127--1142,
+  2019.
+
+\bibitem{huang2018analyst}
+A.~H. Huang, R.~Lehavy, A.~Y. Zang, and R.~Zheng, ``Analyst information
+  discovery and interpretation roles: A topic modeling approach,'' {\em
+  Management science}, vol.~64, no.~6, pp.~2833--2855, 2018.
+
+\bibitem{sarioglu2013topic}
+E.~Sarioglu, K.~Yadav, and H.-A. Choi, ``Topic modeling based classification of
+  clinical reports,'' in {\em Proceedings of the conference. Association for
+  Computational Linguistics. Meeting}, vol.~2013, p.~67, NIH Public Access,
+  2013.
+
+\bibitem{securities2020modernization}
+Securities, E.~Commission, {\em et~al.}, ``Modernization of regulation sk items
+  101, 103, and 105,'' {\em Washington, DC: US Securities and Exchange
+  Commission}, 2020.
+
+\bibitem{kartchner2023zero}
+D.~Kartchner, S.~Ramalingam, I.~Al-Hussaini, O.~Kronick, and C.~Mitchell,
+  ``Zero-shot information extraction for clinical meta-analysis using large
+  language models,'' in {\em The 22nd Workshop on Biomedical Natural Language
+  Processing and BioNLP Shared Tasks}, pp.~396--405, 2023.
+
+\bibitem{wei2023zero}
+X.~Wei, X.~Cui, N.~Cheng, X.~Wang, X.~Zhang, S.~Huang, P.~Xie, J.~Xu, Y.~Chen,
+  M.~Zhang, {\em et~al.}, ``Zero-shot information extraction via chatting with
+  chatgpt (arxiv: 2302.10205). arxiv,'' 2023.
+
+\bibitem{hu2024zero}
+D.~Hu, B.~Liu, X.~Zhu, X.~Lu, and N.~Wu, ``Zero-shot information extraction
+  from radiological reports using chatgpt,'' {\em International Journal of
+  Medical Informatics}, vol.~183, p.~105321, 2024.
+
+\bibitem{finnegan2019using}
+A.~Finnegan, S.~S. Sao, and M.~J. Huchko, ``Using a chord diagram to visualize
+  dynamics in contraceptive use: bringing data into practice,'' {\em Global
+  Health: Science and Practice}, vol.~7, no.~4, pp.~598--605, 2019.
+
+\bibitem{grice2009breaking}
+D.~Grice, H.~Brandt, C.~Wright, P.~McCarthy, A.~Emerich, T.~Schimke, C.~Archer,
+  J.~Carey, P.~Sanders, J.~Fritzjunker, {\em et~al.}, ``Breaking the petaflops
+  barrier,'' {\em IBM Journal of Research and Development}, vol.~53, no.~5,
+  pp.~1--1, 2009.
+
+\bibitem{brown2017evolution}
+F.~K. Brown, E.~C. Sherer, S.~A. Johnson, M.~K. Holloway, and B.~S. Sherborne,
+  ``The evolution of drug design at merck research laboratories,'' {\em Journal
+  of computer-aided molecular design}, vol.~31, no.~3, pp.~255--266, 2017.
+
+\end{thebibliography}

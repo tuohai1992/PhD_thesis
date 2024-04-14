@@ -1,0 +1,205 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/0_introduction.aux
+A level-1 auxiliary file: chapters/1_chapter2.aux
+A level-1 auxiliary file: chapters/2_chapter3.aux
+A level-1 auxiliary file: chapters/3_chapter4.aux
+A level-1 auxiliary file: chapters/4_chapter5.aux
+The style file: ieeetr.bst
+A level-1 auxiliary file: chapters/appendixA.aux
+Reallocated field_info (elt_size=4) to 10336 items from 5000.
+Database file #1: my_bibs.bib
+Warning--I'm ignoring CHEN20181241's extra "note" field
+--line 766 of file my_bibs.bib
+Warning--I'm ignoring Siegel2019's extra "author" field
+--line 820 of file my_bibs.bib
+Warning--entry type for "camelyon16" isn't style-file defined
+--line 1512 of file my_bibs.bib
+Repeated entry---line 2581 of file my_bibs.bib
+ : @article{schmidt2017next
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2592 of file my_bibs.bib
+ : @article{molidor2003new
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2602 of file my_bibs.bib
+ : @article{lightbody2019review
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2614 of file my_bibs.bib
+ : @article{bastrakov2013high
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2626 of file my_bibs.bib
+ : @article{ge2013molecular
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2637 of file my_bibs.bib
+ : @article{kharche2008simulation
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2648 of file my_bibs.bib
+ : @inproceedings{perrin2010model
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2661 of file my_bibs.bib
+ : @article{majeed2021applications
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2674 of file my_bibs.bib
+ : @article{amado2018research
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2687 of file my_bibs.bib
+ : @article{blei2012probabilistic
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2697 of file my_bibs.bib
+ : @article{jacobi2018quantitative
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2705 of file my_bibs.bib
+ : @article{blei2003latent
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2714 of file my_bibs.bib
+ : @article{lee1999learning
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2725 of file my_bibs.bib
+ : @article{deerwester1990indexing
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2738 of file my_bibs.bib
+ : @article{maier2018applying
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2749 of file my_bibs.bib
+ : @article{angelov2020top2vec
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2756 of file my_bibs.bib
+ : @article{egger2022topic
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2765 of file my_bibs.bib
+ : @article{karas2022experiments
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2775 of file my_bibs.bib
+ : @article{nielsen2016hierarchical
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2785 of file my_bibs.bib
+ : @inproceedings{le2014distributed
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2796 of file my_bibs.bib
+ : @article{alghamdi2015survey
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2806 of file my_bibs.bib
+ : @inproceedings{yi2009comparative
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2815 of file my_bibs.bib
+ : @article{meeks2012digital
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2826 of file my_bibs.bib
+ : @article{carpenter2023using
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2837 of file my_bibs.bib
+ : @article{bommarito2022gpt
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2844 of file my_bibs.bib
+ : @article{orkphol2019word
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2855 of file my_bibs.bib
+ : @article{rozado2019using
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2865 of file my_bibs.bib
+ : @article{dillan2023ldaviewer
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2873 of file my_bibs.bib
+ : @article{mcinnes1802umap
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2880 of file my_bibs.bib
+ : @inproceedings{campello2013density
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2890 of file my_bibs.bib
+ : @inproceedings{10.1145/3126686.3126776
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2922 of file my_bibs.bib
+ : @article{jumper2021highly
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2933 of file my_bibs.bib
+ : @article{CHEN20181241
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "1"
+Warning--empty journal in vitabile2019medical
+Warning--can't use both volume and number fields in perrin2010model
+Warning--empty publisher in tahmassebi2018deep
+Warning--empty journal in jacobi2018quantitative
+Warning--empty publisher in Efron1979
+Warning--empty journal in Zanjani2018
+Warning--empty journal in 4-17
+Warning--empty journal in 4-33
+Warning--empty journal in 4-72
+Warning--can't use both volume and number fields in 4-62
+Warning--empty journal in upward2013towards
+Warning--can't use both volume and number fields in mustaniroh2020analysis
+You've used 231 entries,
+            1876 wiz_defined-function locations,
+            1727 strings with 58515 characters,
+and the built_in function-call counts, 74739 in all, are:
+= -- 7256
+> -- 3638
+< -- 0
++ -- 1300
+- -- 1069
+* -- 5616
+:= -- 10514
+add.period$ -- 253
+call.type$ -- 231
+change.case$ -- 229
+chr.to.int$ -- 0
+cite$ -- 243
+duplicate$ -- 3673
+empty$ -- 6400
+format.name$ -- 1069
+if$ -- 18064
+int.to.chr$ -- 0
+int.to.str$ -- 231
+missing$ -- 217
+newline$ -- 719
+num.names$ -- 218
+pop$ -- 683
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2826
+stack$ -- 0
+substring$ -- 5244
+swap$ -- 1759
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 12
+while$ -- 708
+width$ -- 234
+write$ -- 2332
+(There were 33 error messages)
